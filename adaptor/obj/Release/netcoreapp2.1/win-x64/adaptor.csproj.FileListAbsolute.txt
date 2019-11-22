@@ -1,0 +1,11 @@
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\bin\Release\netcoreapp2.1\win-x64\adaptor.deps.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\bin\Release\netcoreapp2.1\win-x64\adaptor.runtimeconfig.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\bin\Release\netcoreapp2.1\win-x64\adaptor.runtimeconfig.dev.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\bin\Release\netcoreapp2.1\win-x64\adaptor.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\bin\Release\netcoreapp2.1\win-x64\adaptor.pdb
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\obj\Release\netcoreapp2.1\win-x64\adaptor.csproj.CoreCompileInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\obj\Release\netcoreapp2.1\win-x64\adaptor.AssemblyInfoInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\obj\Release\netcoreapp2.1\win-x64\adaptor.AssemblyInfo.cs
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\obj\Release\netcoreapp2.1\win-x64\adaptor.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\obj\Release\netcoreapp2.1\win-x64\adaptor.pdb
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\adaptor\obj\Release\netcoreapp2.1\win-x64\adaptor.csprojAssemblyReference.cache

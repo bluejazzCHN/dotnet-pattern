@@ -1,0 +1,11 @@
+D:\WorkFolder\dotnetdemo\pattern\chain\bin\Debug\netcoreapp2.2\chain.deps.json
+D:\WorkFolder\dotnetdemo\pattern\chain\bin\Debug\netcoreapp2.2\chain.runtimeconfig.json
+D:\WorkFolder\dotnetdemo\pattern\chain\bin\Debug\netcoreapp2.2\chain.runtimeconfig.dev.json
+D:\WorkFolder\dotnetdemo\pattern\chain\bin\Debug\netcoreapp2.2\chain.dll
+D:\WorkFolder\dotnetdemo\pattern\chain\bin\Debug\netcoreapp2.2\chain.pdb
+D:\WorkFolder\dotnetdemo\pattern\chain\obj\Debug\netcoreapp2.2\chain.csprojAssemblyReference.cache
+D:\WorkFolder\dotnetdemo\pattern\chain\obj\Debug\netcoreapp2.2\chain.csproj.CoreCompileInputs.cache
+D:\WorkFolder\dotnetdemo\pattern\chain\obj\Debug\netcoreapp2.2\chain.AssemblyInfoInputs.cache
+D:\WorkFolder\dotnetdemo\pattern\chain\obj\Debug\netcoreapp2.2\chain.AssemblyInfo.cs
+D:\WorkFolder\dotnetdemo\pattern\chain\obj\Debug\netcoreapp2.2\chain.dll
+D:\WorkFolder\dotnetdemo\pattern\chain\obj\Debug\netcoreapp2.2\chain.pdb

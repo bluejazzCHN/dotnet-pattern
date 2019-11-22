@@ -1,0 +1,11 @@
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\bin\Debug\netcoreapp2.1\factory.deps.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\bin\Debug\netcoreapp2.1\factory.runtimeconfig.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\bin\Debug\netcoreapp2.1\factory.runtimeconfig.dev.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\bin\Debug\netcoreapp2.1\factory.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\bin\Debug\netcoreapp2.1\factory.pdb
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\obj\Debug\netcoreapp2.1\factory.csprojAssemblyReference.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\obj\Debug\netcoreapp2.1\factory.csproj.CoreCompileInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\obj\Debug\netcoreapp2.1\factory.AssemblyInfoInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\obj\Debug\netcoreapp2.1\factory.AssemblyInfo.cs
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\obj\Debug\netcoreapp2.1\factory.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\factory\obj\Debug\netcoreapp2.1\factory.pdb

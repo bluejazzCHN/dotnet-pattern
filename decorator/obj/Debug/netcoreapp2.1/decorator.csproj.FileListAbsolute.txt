@@ -1,0 +1,11 @@
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\bin\Debug\netcoreapp2.1\decorator.deps.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\bin\Debug\netcoreapp2.1\decorator.runtimeconfig.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\bin\Debug\netcoreapp2.1\decorator.runtimeconfig.dev.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\bin\Debug\netcoreapp2.1\decorator.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\bin\Debug\netcoreapp2.1\decorator.pdb
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\obj\Debug\netcoreapp2.1\decorator.csprojAssemblyReference.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\obj\Debug\netcoreapp2.1\decorator.csproj.CoreCompileInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\obj\Debug\netcoreapp2.1\decorator.AssemblyInfoInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\obj\Debug\netcoreapp2.1\decorator.AssemblyInfo.cs
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\obj\Debug\netcoreapp2.1\decorator.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\decorator\obj\Debug\netcoreapp2.1\decorator.pdb

@@ -1,0 +1,14 @@
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+D:\WorksFolder\VS Porject\dotnetdemo\pattern\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb

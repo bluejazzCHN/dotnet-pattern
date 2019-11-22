@@ -1,0 +1,4 @@
+{
+    "Id": "MNIST",
+    "Scope": "/subscriptions/acaded18-7e27-41f5-a4fb-4287d7293d4c/resourceGroups/Default-Storage-EastAsia/providers/Microsoft.MachineLearningServices/workspaces/myfirstworkspace/projects/MNIST"
+}
